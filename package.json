@@ -1,0 +1,15 @@
+{
+  "name": "kst",
+  "version": "1.0.0",
+  "description": "KST coding test",
+  "main": "name-sorter.js",
+  "scripts": {
+    "test": "mocha --timeout 10000"
+  },
+  "author": "Heli Joyo Prasetyo",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "mocha": "^7.0.1"
+  }
+}
