@@ -15,4 +15,4 @@ npm test
 ##### Example
 ```
 ./name-sorter ./unsorted-names-list.txt
-```"# KST"
+
